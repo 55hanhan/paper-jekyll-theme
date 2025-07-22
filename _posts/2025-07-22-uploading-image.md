@@ -14,12 +14,10 @@ Let's work !
 
 ## Practice
 
-![test_kitten_from_internet](https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
 ![test_kitten_from_internet](https://blog.coccoc.com/wp-content/uploads/2025/05/u-i-a-cat-deo-kinh.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500)
 
 This is how to upload the image from the internet!
 
-![test_kitten](https://junhee-lee233.github.io/paper-jekyll-theme/assets/images/test_kitten.jpeg)
 ![test_kitten](https://55hanhan.github.io/paper-jekyll-theme/assets/images/u-i-a-cat-deo-kinh.jpg)
 
 This is how to upload from your assets (your local image)
